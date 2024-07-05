@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 IT Enthusiast (CP, Full Stack Dev, Cyber Sec, AI, etc.)<br>🌱 I’m currently learning Java & JavaScript<br>⚡ Like reading books, watching movies, playing games
+🔭 IT Enthusiast (CP, Software Dev, Cyber Sec, Network, Computer Arch)<br>🌱 I’m currently learning Go, PHP, Java<br>⚡ Love reading books, watching movies, playing games
 
 
 ## 🌐 Socials:
