@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 IT Enthusiast (CP, Software Dev, Cyber Sec, Network, Computer Arch, AI)<br>🌱 I’m currently learning Go, PHP, Java<br>⚡ Love reading books, watching movies, playing games
+🔭 IT Enthusiast (CP, Software Dev, Cyber Sec, Network, Computer Arch, AI, IoT, DS, CC)<br>🌱 I’m currently learning Go, PHP, Java<br>⚡ Love reading books, watching movies, playing games
 
 
 ## 🌐 Socials:
